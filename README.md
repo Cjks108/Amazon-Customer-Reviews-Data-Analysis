@@ -77,21 +77,6 @@ This project analyzes Amazon sales data using Python. It involves **data cleanin
 
 ---
 
-## 🚀 How to Run the Project
-
-1. **Clone the Repository**  
-   ```bash
-   git clone https://github.com/your-username/Amazon-Customer-Reviews-Data-Analysis.git
-   cd Amazon-Customer-Reviews-Data-Analysis
-   
-2. **Install Dependencies** 
-   Ensure Python is installed on your system. Then, install the required libraries:
-  ```bash
-  pip install pandas numpy matplotlib seaborn textblob
-
-
----
-
 ## 🚀 Future Improvements
 
 - **Implement Natural Language Processing (NLP) techniques for deeper review analysis.**
