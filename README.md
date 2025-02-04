@@ -16,6 +16,7 @@ This project analyzes Amazon sales data using Python. It involves **data cleanin
   - `Summary`: Short summary of the review
   - `Score`: Rating given by the user (1 to 5)
   - `ProductId`: Unique product identifier
+  -  **Download the Dataset:** [Click Here](https://drive.google.com/drive/folders/1aBR9v7GbIVNqUTik3F_ZErkw2MjvPNKE?usp=sharing)
 
 ---
 
